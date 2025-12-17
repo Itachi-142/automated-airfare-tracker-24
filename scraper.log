@@ -1,0 +1,23 @@
+2025-12-17 18:31:31,684 - INFO - ====== WebDriver manager ======
+2025-12-17 18:31:35,764 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 18:31:35,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-17 18:31:36,002 - INFO - Driver [C:\Users\varun\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-17 18:31:37,454 - INFO - \U0001f680 Starting scrape for 4 routes on date: 2026-02-15
+2025-12-17 18:31:37,456 - INFO - 
+--- Checking BLR -> DEL ---
+2025-12-17 18:31:41,300 - INFO -    \U0001f4b0 Found: \u20b96,780
+2025-12-17 18:31:41,327 - INFO -    \u2705 Saved \u20b96780.0
+2025-12-17 18:31:41,328 - INFO - 
+--- Checking BOM -> DXB ---
+2025-12-17 18:31:43,151 - INFO -    \U0001f4b0 Found: \u20b915,404
+2025-12-17 18:31:43,175 - INFO -    \u2705 Saved \u20b915404.0
+2025-12-17 18:31:43,177 - INFO - 
+--- Checking DEL -> LHR ---
+2025-12-17 18:31:45,533 - INFO -    \U0001f4b0 Found: \u20b926,888
+2025-12-17 18:31:45,567 - INFO -    \u2705 Saved \u20b926888.0
+2025-12-17 18:31:45,568 - INFO - 
+--- Checking MAA -> SIN ---
+2025-12-17 18:31:46,874 - INFO -    \U0001f4b0 Found: \u20b96,933
+2025-12-17 18:31:46,895 - INFO -    \u2705 Saved \u20b96933.0
+2025-12-17 18:31:46,896 - INFO - 
+\U0001f3c1 All routes checked.
